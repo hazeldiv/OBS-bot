@@ -1,4 +1,4 @@
 {
   "prefix": "!",
-  "token": "process.env.arcadia"
+  "token": "process.env.bot_token"
 }
