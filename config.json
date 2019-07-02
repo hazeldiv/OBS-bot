@@ -1,4 +1,4 @@
 {
   "prefix": "!",
-  "token": "process.env.obs"
+  "token": "process.env.arcadia"
 }
