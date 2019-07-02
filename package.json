@@ -1,0 +1,22 @@
+{
+  "name": "obs",
+  "version": "1.0.0",
+  "description": "bot for obs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "hazel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazeldiv/OBS-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hazeldiv/OBS-bot/issues"
+  },
+  "homepage": "https://github.com/hazeldiv/OBS-bot#readme"
+}
