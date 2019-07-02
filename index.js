@@ -44,4 +44,4 @@ bot.on("message", async message  => {
 });
 
 
-bot.login(process.env.arcadia);
+bot.login(process.env.bot_token);
