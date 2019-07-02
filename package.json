@@ -1,0 +1,14 @@
+{
+  "name": "obs",
+  "version": "1.0.0",
+  "description": "bot for obs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hazel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
